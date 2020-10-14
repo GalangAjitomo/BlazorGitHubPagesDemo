@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDY\\blazorgithubpagesdemo\\blazorgithubpagesdemo.csproj": {}
+    "D:\\STUDY\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {}
   },
   "projects": {
-    "D:\\STUDY\\blazorgithubpagesdemo\\blazorgithubpagesdemo.csproj": {
+    "D:\\STUDY\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDY\\blazorgithubpagesdemo\\blazorgithubpagesdemo.csproj",
-        "projectName": "blazorgithubpagesdemo",
-        "projectPath": "D:\\STUDY\\blazorgithubpagesdemo\\blazorgithubpagesdemo.csproj",
+        "projectUniqueName": "D:\\STUDY\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
+        "projectName": "BlazorGitHubPagesDemo",
+        "projectPath": "D:\\STUDY\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
         "packagesPath": "C:\\Users\\Galang\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDY\\blazorgithubpagesdemo\\obj\\",
+        "outputPath": "D:\\STUDY\\BlazorGitHubPagesDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Galang\\AppData\\Roaming\\NuGet\\NuGet.Config"
